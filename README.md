@@ -19,8 +19,8 @@ Monday 22 September 2025
           5. Q&A 
 
 11:00 am - 12:30 pm: 
-- Generative Adversarial Networks: [theory](https://drive.google.com/file/d/14TLT3hOZRbC0gwPQa4ln7XQvyl6jByHc/view?usp=sharing)
-- Variational Autoencoders: [theory](https://drive.google.com/file/d/1AGMSI4bW9czul8ArohbL1xEeIDhYYX-_/view) 
+- Generative Adversarial Networks: [theory](https://drive.google.com/file/d/1-bcgfolIEC9kiZ8x_38h90Ob84_keaxL/view?usp=sharing)
+- Variational Autoencoders: [theory](https://drive.google.com/file/d/1vggSIJ-BOg8SleaARAycs0pfQ6np2wZN/view?usp=sharing) 
 
 
 
