@@ -2,11 +2,11 @@
 
 Lecture Plan
 
-Monday - 22 September 2025
+Monday 22 September 2025
 
-9:00 am - 10:30 am: Morning Lecture Session 
+9:00 am - 10:30 am: 
 
-- [Deep Generative AI: General Introduction](https://docs.google.com/presentation/d/1uGdbbGyzanByF52tXBmbc32YOhFx6FcK/edit?usp=sharing&ouid=112539102430690321792&rtpof=true&sd=true) (90 min)
+- [Deep Generative AI: General Introduction](https://docs.google.com/presentation/d/1uGdbbGyzanByF52tXBmbc32YOhFx6FcK/edit?usp=sharing&ouid=112539102430690321792&rtpof=true&sd=true) 
   
           1. Introduction to Generative AI 
   
@@ -18,7 +18,7 @@ Monday - 22 September 2025
   
           5. Q&A 
 
-11:00 am - 12:30 pm: Lectures
+11:00 am - 12:30 pm: 
 - Generative Adversarial Networks: [theory](https://drive.google.com/file/d/14TLT3hOZRbC0gwPQa4ln7XQvyl6jByHc/view?usp=sharing)
 - Variational Autoencoders: [theory](https://drive.google.com/file/d/1AGMSI4bW9czul8ArohbL1xEeIDhYYX-_/view) 
 
@@ -34,10 +34,7 @@ Advanced lab (EXTRA)
 -   Dataset : [emojis.zip](https://drive.google.com/file/d/1ueA6y9TyHXDJTsSTGpgB_-d3F6lSH5gR/view?usp=sharing)
 
 
-
-Solutions will be provided after the lab session
-
-<!--
+Solutions:
 - [Variational Autoencoders solution](https://colab.research.google.com/drive/14fCH88W4tdh8xL2RlxAgzWMcCWLsbdIU?usp=sharing)
 - [Generative Adversarial Networks solution](https://colab.research.google.com/drive/1D1_xaZ5LqhuWWZcOoK3rsrqYPlgk-Ce7?usp=sharing)
--->
+
