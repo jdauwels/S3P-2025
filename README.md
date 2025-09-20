@@ -6,7 +6,7 @@ Monday 22 September 2025
 
 9:00 am - 10:30 am: 
 
-- [Deep Generative AI: General Introduction](https://docs.google.com/presentation/d/1uGdbbGyzanByF52tXBmbc32YOhFx6FcK/edit?usp=sharing&ouid=112539102430690321792&rtpof=true&sd=true) 
+- [Deep Generative AI: General Introduction](https://docs.google.com/presentation/d/1Hoy-KPL4qK19NfYLXUwBj023uRpVsixe/edit?usp=sharing&ouid=112539102430690321792&rtpof=true&sd=true) 
   
           1. Introduction to Generative AI 
   
