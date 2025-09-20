@@ -23,6 +23,7 @@ Monday 22 September 2025
 - Variational Autoencoders: [theory](https://drive.google.com/file/d/1AGMSI4bW9czul8ArohbL1xEeIDhYYX-_/view) 
 
 
+
 Background
 - Short Lecture on Neural Networks : [link to slides](https://docs.google.com/presentation/d/1pWtXgvKu_X7_qLYatealikknRJeeGlLD/edit?usp=sharing&ouid=106033496572193449338&rtpof=true&sd=true)
 - PyTorch Basics : [labs](https://colab.research.google.com/drive/1-9HCqKTrDDJuLAgXEg2CuE5cZDXeISeO?usp=sharing) and [solutions](https://colab.research.google.com/drive/1ZgqJk2CG8otieorhkxdpxucLbsO6FTUy?usp=sharing)
